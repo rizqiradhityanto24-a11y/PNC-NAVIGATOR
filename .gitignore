@@ -8,7 +8,6 @@
 /.fleet
 /.idea
 /.nova
-/.phpunit.cache
 /.vscode
 /.zed
 /auth.json
@@ -22,3 +21,9 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
